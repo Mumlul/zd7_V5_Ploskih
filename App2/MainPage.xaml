@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App2.MainPage">
+
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Информация по объектам недвижимости (выбор и покупка недвижимости)"
+                   FontAttributes="Bold"
+                   TextColor="Green"
+                   HorizontalOptions="Center" />
+
+
+            <StackLayout>
+                <Image Source="" x:Name="k" />
+                <Label Text="..." x:Name="kk"/>
+                <Label Text="..." x:Name="kkk"/>
+                <Label Text="..." x:Name="kkkk"/>
+                <Label Text="..." x:Name="kkkkk"/>
+            </StackLayout>
+
+
+            <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+                <Button Text="Расчет суммы оплаты" Clicked="Button_Clicked" />
+                <Button Text="Возврат на главную страницу" Clicked="Button_Clicked_1" />
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

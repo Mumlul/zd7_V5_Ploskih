@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App2.Page2">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Калькулятор стоимости"
+                   FontAttributes="Bold"
+                   HorizontalOptions="Center" />
+
+            <Entry Placeholder="Введите срок оплаты (дни)"
+                   Keyboard="Numeric"
+                   x:Name="summa"
+                    />
+
+            <Picker Title="Выберите вид оплаты" x:Name="hh">
+                <Picker.Items>
+                    <x:String>Безналичный</x:String>
+                    <x:String>Наличка</x:String>
+                    
+                </Picker.Items>
+            </Picker>
+                    
+
+            <Label Text="Рассчитанная сумма:"
+                   FontAttributes="Bold" />
+            <Label Text="..." x:Name="all" />
+
+            <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+                <Button Text="На главную"  Clicked="Button_Clicked"/>
+                <Button Text="Рассчитать" Clicked="Button_Clicked_1"/>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

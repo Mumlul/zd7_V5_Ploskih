@@ -1,0 +1,291 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PLOSKIKH\\App2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93223253-FC4A-47E5-84D2-69FF290DC846}|App2\\App2.csproj|C:\\PLOSKIKH\\App2\\app2\\page2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93223253-FC4A-47E5-84D2-69FF290DC846}|App2\\App2.csproj|solutionrelative:app2\\page2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93223253-FC4A-47E5-84D2-69FF290DC846}|App2\\App2.csproj|C:\\PLOSKIKH\\App2\\app2\\page1.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{93223253-FC4A-47E5-84D2-69FF290DC846}|App2\\App2.csproj|solutionrelative:app2\\page1.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93223253-FC4A-47E5-84D2-69FF290DC846}|App2\\App2.csproj|C:\\PLOSKIKH\\App2\\app2\\page1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93223253-FC4A-47E5-84D2-69FF290DC846}|App2\\App2.csproj|solutionrelative:app2\\page1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93223253-FC4A-47E5-84D2-69FF290DC846}|App2\\App2.csproj|c:\\ploskikh\\app2\\app2\\stylesheet1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{93223253-FC4A-47E5-84D2-69FF290DC846}|App2\\App2.csproj|solutionrelative:app2\\stylesheet1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93223253-FC4A-47E5-84D2-69FF290DC846}|App2\\App2.csproj|C:\\PLOSKIKH\\App2\\app2\\page2.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{93223253-FC4A-47E5-84D2-69FF290DC846}|App2\\App2.csproj|solutionrelative:app2\\page2.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93223253-FC4A-47E5-84D2-69FF290DC846}|App2\\App2.csproj|c:\\ploskikh\\app2\\app2\\page3.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{93223253-FC4A-47E5-84D2-69FF290DC846}|App2\\App2.csproj|solutionrelative:app2\\page3.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93223253-FC4A-47E5-84D2-69FF290DC846}|App2\\App2.csproj|c:\\ploskikh\\app2\\app2\\page3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93223253-FC4A-47E5-84D2-69FF290DC846}|App2\\App2.csproj|solutionrelative:app2\\page3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93223253-FC4A-47E5-84D2-69FF290DC846}|App2\\App2.csproj|c:\\ploskikh\\app2\\app2\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93223253-FC4A-47E5-84D2-69FF290DC846}|App2\\App2.csproj|solutionrelative:app2\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93223253-FC4A-47E5-84D2-69FF290DC846}|App2\\App2.csproj|C:\\PLOSKIKH\\App2\\app2\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93223253-FC4A-47E5-84D2-69FF290DC846}|App2\\App2.csproj|solutionrelative:app2\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93223253-FC4A-47E5-84D2-69FF290DC846}|App2\\App2.csproj|C:\\PLOSKIKH\\App2\\app2\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{93223253-FC4A-47E5-84D2-69FF290DC846}|App2\\App2.csproj|solutionrelative:app2\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93223253-FC4A-47E5-84D2-69FF290DC846}|App2\\App2.csproj|C:\\PLOSKIKH\\App2\\app2\\realestateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93223253-FC4A-47E5-84D2-69FF290DC846}|App2\\App2.csproj|solutionrelative:app2\\realestateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93223253-FC4A-47E5-84D2-69FF290DC846}|App2\\App2.csproj|C:\\PLOSKIKH\\App2\\app2\\realestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93223253-FC4A-47E5-84D2-69FF290DC846}|App2\\App2.csproj|solutionrelative:app2\\realestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93223253-FC4A-47E5-84D2-69FF290DC846}|App2\\App2.csproj|C:\\PLOSKIKH\\App2\\app2\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93223253-FC4A-47E5-84D2-69FF290DC846}|App2\\App2.csproj|solutionrelative:app2\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93223253-FC4A-47E5-84D2-69FF290DC846}|App2\\App2.csproj|c:\\ploskikh\\app2\\app2\\obj\\debug\\netstandard2.0\\mainpage.xaml.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93223253-FC4A-47E5-84D2-69FF290DC846}|App2\\App2.csproj|solutionrelative:app2\\obj\\debug\\netstandard2.0\\mainpage.xaml.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6BAE51-AB6F-4F70-AF43-8184029FD3A8}|App2.Android\\App2.Android.csproj|c:\\ploskikh\\app2\\app2.android\\resources\\resource.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A6BAE51-AB6F-4F70-AF43-8184029FD3A8}|App2.Android\\App2.Android.csproj|solutionrelative:app2.android\\resources\\resource.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93223253-FC4A-47E5-84D2-69FF290DC846}|App2\\App2.csproj|C:\\PLOSKIKH\\App2\\app2\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{93223253-FC4A-47E5-84D2-69FF290DC846}|App2\\App2.csproj|solutionrelative:app2\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Page3.xaml",
+              "DocumentMoniker": "C:\\PLOSKIKH\\App2\\App2\\Page3.xaml",
+              "RelativeDocumentMoniker": "App2\\Page3.xaml",
+              "ToolTip": "C:\\PLOSKIKH\\App2\\App2\\Page3.xaml",
+              "RelativeToolTip": "App2\\Page3.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-06T07:59:12.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainPage.xaml.g.cs",
+              "DocumentMoniker": "C:\\PLOSKIKH\\App2\\App2\\obj\\Debug\\netstandard2.0\\MainPage.xaml.g.cs",
+              "RelativeDocumentMoniker": "App2\\obj\\Debug\\netstandard2.0\\MainPage.xaml.g.cs",
+              "ToolTip": "C:\\PLOSKIKH\\App2\\App2\\obj\\Debug\\netstandard2.0\\MainPage.xaml.g.cs",
+              "RelativeToolTip": "App2\\obj\\Debug\\netstandard2.0\\MainPage.xaml.g.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAqwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T06:28:28.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Page1.xaml.cs",
+              "DocumentMoniker": "C:\\PLOSKIKH\\App2\\App2\\Page1.xaml.cs",
+              "RelativeDocumentMoniker": "App2\\Page1.xaml.cs",
+              "ToolTip": "C:\\PLOSKIKH\\App2\\App2\\Page1.xaml.cs",
+              "RelativeToolTip": "App2\\Page1.xaml.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAqwFcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T04:48:21.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Page2.xaml.cs",
+              "DocumentMoniker": "C:\\PLOSKIKH\\App2\\App2\\Page2.xaml.cs",
+              "RelativeDocumentMoniker": "App2\\Page2.xaml.cs",
+              "ToolTip": "C:\\PLOSKIKH\\App2\\App2\\Page2.xaml.cs",
+              "RelativeToolTip": "App2\\Page2.xaml.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAwwEYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T04:46:14.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RealEstate.cs",
+              "DocumentMoniker": "C:\\PLOSKIKH\\App2\\App2\\RealEstate.cs",
+              "RelativeDocumentMoniker": "App2\\RealEstate.cs",
+              "ToolTip": "C:\\PLOSKIKH\\App2\\App2\\RealEstate.cs",
+              "RelativeToolTip": "App2\\RealEstate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T04:45:31.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RealEstateViewModel.cs",
+              "DocumentMoniker": "C:\\PLOSKIKH\\App2\\App2\\RealEstateViewModel.cs",
+              "RelativeDocumentMoniker": "App2\\RealEstateViewModel.cs",
+              "ToolTip": "C:\\PLOSKIKH\\App2\\App2\\RealEstateViewModel.cs",
+              "RelativeToolTip": "App2\\RealEstateViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T04:44:38.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\PLOSKIKH\\App2\\App2\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App2\\App.xaml.cs",
+              "ToolTip": "C:\\PLOSKIKH\\App2\\App2\\App.xaml.cs",
+              "RelativeToolTip": "App2\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T04:35:41.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\PLOSKIKH\\App2\\App2\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "App2\\AssemblyInfo.cs",
+              "ToolTip": "C:\\PLOSKIKH\\App2\\App2\\AssemblyInfo.cs",
+              "RelativeToolTip": "App2\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T04:35:39.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Page2.xaml",
+              "DocumentMoniker": "C:\\PLOSKIKH\\App2\\App2\\Page2.xaml",
+              "RelativeDocumentMoniker": "App2\\Page2.xaml",
+              "ToolTip": "C:\\PLOSKIKH\\App2\\App2\\Page2.xaml",
+              "RelativeToolTip": "App2\\Page2.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-06T04:35:05.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Page1.xaml",
+              "DocumentMoniker": "C:\\PLOSKIKH\\App2\\App2\\Page1.xaml",
+              "RelativeDocumentMoniker": "App2\\Page1.xaml",
+              "ToolTip": "C:\\PLOSKIKH\\App2\\App2\\Page1.xaml",
+              "RelativeToolTip": "App2\\Page1.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-06T04:34:32.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StyleSheet1.css",
+              "DocumentMoniker": "C:\\PLOSKIKH\\App2\\App2\\StyleSheet1.css",
+              "RelativeDocumentMoniker": "App2\\StyleSheet1.css",
+              "ToolTip": "C:\\PLOSKIKH\\App2\\App2\\StyleSheet1.css",
+              "RelativeToolTip": "App2\\StyleSheet1.css",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-06T08:00:50.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Page3.xaml.cs",
+              "DocumentMoniker": "C:\\PLOSKIKH\\App2\\App2\\Page3.xaml.cs",
+              "RelativeDocumentMoniker": "App2\\Page3.xaml.cs",
+              "ToolTip": "C:\\PLOSKIKH\\App2\\App2\\Page3.xaml.cs",
+              "RelativeToolTip": "App2\\Page3.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABwAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:00:28.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\PLOSKIKH\\App2\\App2\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "App2\\MainPage.xaml.cs",
+              "ToolTip": "C:\\PLOSKIKH\\App2\\App2\\MainPage.xaml.cs",
+              "RelativeToolTip": "App2\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAowCAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T04:26:38.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\PLOSKIKH\\App2\\App2\\MainPage.xaml",
+              "RelativeDocumentMoniker": "App2\\MainPage.xaml",
+              "ToolTip": "C:\\PLOSKIKH\\App2\\App2\\MainPage.xaml",
+              "RelativeToolTip": "App2\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-06T04:26:35.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Resource.designer.cs",
+              "DocumentMoniker": "C:\\PLOSKIKH\\App2\\App2.Android\\Resources\\Resource.designer.cs",
+              "RelativeDocumentMoniker": "App2.Android\\Resources\\Resource.designer.cs",
+              "ToolTip": "C:\\PLOSKIKH\\App2\\App2.Android\\Resources\\Resource.designer.cs",
+              "RelativeToolTip": "App2.Android\\Resources\\Resource.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T06:16:12.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\PLOSKIKH\\App2\\App2\\App.xaml",
+              "RelativeDocumentMoniker": "App2\\App.xaml",
+              "ToolTip": "C:\\PLOSKIKH\\App2\\App2\\App.xaml",
+              "RelativeToolTip": "App2\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-06T04:35:56.72Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
